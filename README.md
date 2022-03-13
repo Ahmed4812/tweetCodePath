@@ -22,11 +22,11 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
--The video shows login
--Saving the token and keeping the user logged in
--Data from timeline
--reload of data
--lastly logout
+- The video shows login
+- Saving the token and keeping the user logged in
+- Data from timeline
+- reload of data
+- lastly logout
 
 ![](https://i.imgur.com/Xr42IAd.gif)
 
